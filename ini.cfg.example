@@ -1,0 +1,7 @@
+[General]
+modname=of_flesh_and_faith_plus_rus
+version=0.1-poc
+
+[Build]
+modkitpath=YOUR_MODKIT_PATH_HERE
+datapath=YOUR_DATA_PATH_HERE
